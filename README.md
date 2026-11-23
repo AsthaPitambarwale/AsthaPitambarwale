@@ -279,31 +279,99 @@ An AI-oriented article processing project.
 
 ---
 
-## 🏆 GitHub Trophies
+
+---
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AsthaPitambarwale&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" width="100%"/>
+## 📊 My GitHub Journey
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AsthaPitambarwale&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsthaPitambarwale&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=AsthaPitambarwale&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten!
+## 🌌 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AsthaPitambarwale/AsthaPitambarwale/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AsthaPitambarwale&bg_color=0d1117&color=58a6ff&line=8957e5&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-## 💡 Developer Mindset
+## 🐍 My Coding Journey
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://raw.githubusercontent.com/AsthaPitambarwale/AsthaPitambarwale/output/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## 🏅 Developer Highlights
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🤖_Artificial_Intelligence-Exploring-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧠_Machine_Learning-Learning-0078D4?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/💡_Deep_Learning-Building-FF4B91?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🐍_Python-Developing-3776AB?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/💻_Full_Stack-Developing-00A86B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎓_PGCP--AI-C--DAC-764ABC?style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 A Little Reminder
+
+# "Dream it. Code it. Train it. Build it."
+
+*Every line of code is a step towards something extraordinary.*
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=BB86FC&center=true&vCenter=true&width=550&lines=Keep+Learning+%F0%9F%93%9A;Keep+Experimenting+%F0%9F%A7%AA;Keep+Building+%F0%9F%9A%80;Keep+Innovating+%F0%9F%A4%96" alt="Developer Mindset"/>
+
+<br/><br/>
+
+<a href="https://github.com/AsthaPitambarwale">
+<img src="https://img.shields.io/badge/GitHub-Follow_My_Journey-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/astha-pitambarwale-a32028316/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://ai-portfolio-ruddy-nu.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-8A2BE2?style=for-the-badge&logo=vercel"/>
+</a>
+
+<br/><br/>
+
+**Thanks for visiting my profile! ⭐**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:4B0082,100:00C6FF&height=120&section=footer" width="100%"/>
 
 <br/><br/>
 
