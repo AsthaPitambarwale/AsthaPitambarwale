@@ -1,34 +1,29 @@
 
-<!-- ====================================================== -->
-<!--              ASTHA PITAMBARWALE - GITHUB                -->
-<!-- ====================================================== -->
+<!-- ========================================================= -->
+<!--             ASTHA PITAMBARWALE | GITHUB PROFILE           -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-# Hey there! 👋 I'm Astha Pitambarwale
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:4B0082,100:00C6FF&height=220&section=header&text=Astha%20Pitambarwale&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Developer%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning&descSize=17&descAlignY=60&animation=fadeIn" width="100%"/>
 
-### 🤖 AI/ML Developer | Machine Learning & Deep Learning Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+%7C+Machine+Learning;Deep+Learning+%7C+Data+Science;Python+%7C+Neural+Networks+%7C+AI;Building+Intelligent+AI-Powered+Applications;Full+Stack+Developer+%7C+MERN+Stack" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+%F0%9F%A4%96;Machine+Learning+%26+Deep+Learning+%F0%9F%A7%A0;Python+%7C+Data+Science+%7C+Neural+Networks;Building+Intelligent+AI-Powered+Applications;Full+Stack+Developer+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=AsthaPitambarwale&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-
-<img src="https://img.shields.io/github/followers/AsthaPitambarwale?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=AsthaPitambarwale&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/AsthaPitambarwale?label=FOLLOWERS&style=for-the-badge&color=blue" />
 
 <br/><br/>
 
 <a href="https://ai-portfolio-ruddy-nu.vercel.app">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐_MY_PORTFOLIO-Visit_Website-00C7B7?style=for-the-badge"/>
 </a>
-
 <a href="https://www.linkedin.com/in/astha-pitambarwale-a32028316/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-
 <a href="https://github.com/AsthaPitambarwale">
-<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GITHUB-Follow_Me-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
@@ -37,19 +32,55 @@
 
 ## 👩‍💻 About Me
 
+<img align="right" alt="AI Developer Illustration" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
 Hello! I'm **Astha Pitambarwale**, an aspiring **AI/ML Developer and Full-Stack Developer** from Mumbai, India.
 
-I'm passionate about Artificial Intelligence, Machine Learning, Deep Learning and building intelligent applications that solve real-world problems.
+I'm passionate about Artificial Intelligence, Machine Learning, Deep Learning and developing intelligent applications that solve real-world problems.
 
-- 🤖 Exploring **Artificial Intelligence, Machine Learning & Deep Learning**
-- 🧠 Learning predictive modelling, neural networks and intelligent algorithms
-- 🐍 Working with **Python, NumPy, Pandas and Scikit-learn**
-- 📊 Interested in Data Science, Data Analysis and Model Evaluation
-- 💻 Building web applications using **MERN Stack and modern technologies**
-- 🎓 Currently pursuing **PGCP-AI at C-DAC**
-- 🚀 Interested in developing practical, industry-oriented AI solutions
-- 👯 Open to collaborating on **AI/ML, Deep Learning and Full-Stack projects**
-- 💡 Believe in continuous learning, experimentation and building meaningful projects
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 🧠 Learning Deep Learning and Neural Networks
+- 🐍 Working with Python, NumPy, Pandas and Scikit-learn
+- 📊 Interested in Data Science and Predictive Analytics
+- 💻 Building applications using MERN Stack
+- 🎓 Currently pursuing PGCP-AI at C-DAC
+- 🚀 Working towards developing industry-oriented AI solutions
+- 👯 Open to collaborating on AI/ML and Full-Stack projects
+- 💡 Always curious to learn, experiment and innovate
+
+<br clear="right"/>
+
+---
+
+## 🧠 My AI & Machine Learning Journey
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-6A5ACD?style=for-the-badge&logo=probot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DEEP_LEARNING-FF4B91?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DATA_SCIENCE-008B8B?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark" alt="AI ML Technologies"/>
+
+</div>
+
+### Areas I'm Exploring
+
+| Domain | Concepts |
+|---|---|
+| Artificial Intelligence | Intelligent Systems, AI Applications |
+| Machine Learning | Supervised & Unsupervised Learning |
+| Regression | Linear, Logistic, Polynomial, Ridge, Lasso |
+| Classification | Decision Trees, Random Forest, SVM, KNN |
+| Clustering | K-Means, Hierarchical, DBSCAN |
+| Ensemble Learning | Bagging, Boosting, AdaBoost, Gradient Boosting |
+| Dimensionality Reduction | PCA, t-SNE |
+| Deep Learning | ANN, CNN, Neural Networks |
+| Data Science | Data Cleaning, EDA, Feature Engineering |
+| Model Evaluation | Accuracy, Precision, Recall, F1-Score |
 
 ---
 
@@ -57,70 +88,61 @@ I'm passionate about Artificial Intelligence, Machine Learning, Deep Learning an
 
 ### 💻 Programming Languages
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css"/>
-</p>
+<div align="center">
 
-### 🤖 Artificial Intelligence, Machine Learning & Deep Learning
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css&theme=dark"/>
 
-<p align="left">
-<img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/Deep_Learning-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Artificial_Intelligence-0066FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Science-2E8B57?style=for-the-badge"/>
-</p>
+</div>
 
-<p align="left">
+### 🤖 AI / ML / Deep Learning / Data Science
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark"/>
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+
+</div>
 
 ### 🌐 Frontend Development
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite"/>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,vite&theme=dark"/>
+
+</div>
 
 ### ⚙️ Backend Development
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark"/>
+
+</div>
 
 ### 🗄️ Databases
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark"/>
+
+</div>
 
 ### 🔧 Tools & Platforms
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,cloudinary"/>
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,cloudinary,docker&theme=dark"/>
 
-## 🧠 Machine Learning & Deep Learning Interests
-
-| Domain | Topics |
-|---|---|
-| Machine Learning | Supervised & Unsupervised Learning |
-| Regression | Linear, Logistic, Polynomial, Ridge, Lasso |
-| Classification | Decision Trees, Random Forest, SVM, KNN |
-| Clustering | K-Means, Hierarchical Clustering, DBSCAN |
-| Ensemble Learning | Bagging, Boosting, AdaBoost, Gradient Boosting |
-| Dimensionality Reduction | PCA, t-SNE |
-| Deep Learning | Neural Networks, ANN, CNN |
-| Data Science | Data Cleaning, EDA, Feature Engineering |
-| Model Evaluation | Accuracy, Precision, Recall, F1-Score |
+</div>
 
 ---
 
@@ -130,102 +152,101 @@ I'm passionate about Artificial Intelligence, Machine Learning, Deep Learning an
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 AI-Powered CSV Importer
+<h3>🧠 AI-Powered CSV Importer</h3>
 
-An AI-focused application for working with and processing CSV data.
+AI-focused application for processing and working with CSV data.
 
-**Tech:** TypeScript, AI Integration
+**Technology:** TypeScript
 
 <a href="https://github.com/AsthaPitambarwale/AI-powered-CSV-Importer">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+<h3>🛍️ Doodle Delight</h3>
 
-### 🛍️ Doodle Delight
+Smart stationery e-commerce platform with retail and wholesale shopping experiences.
 
-A smart stationery e-commerce platform featuring retail and wholesale shopping experiences.
-
-**Tech:** MERN Stack
+**Technology:** MERN Stack
 
 <a href="https://github.com/AsthaPitambarwale/Doodle_Delight-India-sBestStatineryStore">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 AI Portfolio
+<h3>🌐 AI Portfolio</h3>
 
-My personal portfolio showcasing my development journey, technical skills and projects.
+Personal portfolio showcasing my technical skills, projects and development journey.
 
-**Tech:** HTML, CSS, JavaScript
+**Technology:** HTML, CSS, JavaScript
 
 <a href="https://github.com/AsthaPitambarwale/AI-portfolio">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://ai-portfolio-ruddy-nu.vercel.app">
-<img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/LIVE_DEMO-00C7B7?style=for-the-badge&logo=vercel"/>
 </a>
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+<h3>🎓 LearnHub</h3>
 
-### 🎓 LearnHub
+Online training and learning platform designed to support digital education.
 
-An online training and learning platform designed to support digital learning.
-
-**Tech:** TypeScript
+**Technology:** TypeScript
 
 <a href="https://github.com/AsthaPitambarwale/OnlineTraining-LearnHub">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🍽️ SpiceRoots Restaurant
+<h3>🍽️ SpiceRoots Restaurant</h3>
 
-A restaurant web development project focused on creating an engaging online experience.
+Restaurant website development project focused on creating an engaging online experience.
 
-**Tech:** TypeScript
+**Technology:** TypeScript
 
 <a href="https://github.com/AsthaPitambarwale/Spiceroots-Resturant">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
-
-### 🤖 AI-Enhanced Article Processing System
+<h3>🤖 AI-Enhanced Article Processing System</h3>
 
 An AI-oriented article processing project.
 
-**Tech:** Blade
+**Technology:** Blade
 
 <a href="https://github.com/AsthaPitambarwale/AI-Enhanced-Article-Processing-System">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 <a href="https://github.com/AsthaPitambarwale?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_All_Repositories-2ea44f?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE_ALL_MY_REPOSITORIES-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -258,17 +279,7 @@ An AI-oriented article processing project.
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten!
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AsthaPitambarwale/AsthaPitambarwale/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -278,11 +289,27 @@ An AI-oriented article processing project.
 
 ---
 
-## 💡 Developer Quote
+## 🐍 Watch My Contributions Get Eaten!
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AsthaPitambarwale/AsthaPitambarwale/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## 💡 Developer Mindset
 
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+<br/><br/>
+
+### 💜 Dream. Learn. Build. Innovate.
+
+**Turning curiosity into code and ideas into intelligent solutions.**
 
 </div>
 
@@ -290,9 +317,13 @@ An AI-oriented article processing project.
 
 ## 🤝 Let's Connect!
 
-I'm always excited to connect with developers, collaborate on interesting projects, explore new technologies and build innovative solutions.
-
 <div align="center">
+
+I'm always excited to connect with developers, AI/ML enthusiasts and technology lovers.
+
+Let's collaborate, share ideas and build something amazing!
+
+<br/>
 
 <a href="https://www.linkedin.com/in/astha-pitambarwale-a32028316/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -308,8 +339,10 @@ I'm always excited to connect with developers, collaborate on interesting projec
 
 <br/><br/>
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my GitHub profile!
 
 ### Keep Learning. Keep Building. Keep Innovating. 🚀
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:4B0082,100:00C6FF&height=120&section=footer" width="100%"/>
