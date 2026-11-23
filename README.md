@@ -250,36 +250,6 @@ An AI-oriented article processing project.
 </a>
 
 </div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AsthaPitambarwale&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsthaPitambarwale&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=AsthaPitambarwale&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AsthaPitambarwale&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
-
 ---
 
 <div align="center">
